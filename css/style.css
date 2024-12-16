@@ -1,0 +1,83 @@
+@import url(./vars.css);
+@import url(./fonts.css);
+
+html,
+body {
+  min-height: 100vh;
+  font-size: var(--main-font-size);
+}
+.container {
+  max-width: var(--width-container);
+  margin: 0 auto;
+}
+header {
+  height: 54px;
+  font-size: 22px;
+  display: flex;
+  text-align: left;
+  align-items: center;
+  justify-content: space-between;
+}
+li {
+  display: inline-block;
+}
+a {
+  text-decoration: none;
+}
+div {
+  display: flex;
+}
+.header__language-switcher {
+  font-family: "Tourney", sans-serif;
+  /* margin: auto; */
+  text-align: left;
+}
+.header__nav {
+  font-family: "Staatliches", sans-serif;
+}
+h2 {
+  font-family: "Francois One", sans-serif;
+  font-size: 36px;
+  text-transform: uppercase;
+  line-height: 48px;
+  margin-right: 10px;
+  text-align: left;
+}
+h6 {
+  font-family: "Farro", sans-serif;
+  font-size: 30px;
+  line-height: 30px;
+  margin: 0;
+  font-weight: 50;
+}
+section {
+  font-family: "PT Sans", sans-serif;
+  line-height: 48px;
+  margin-top: 40px;
+}
+article {
+  margin-top: 70px;
+}
+.underline {
+  text-decoration: underline;
+}
+.header__nav {
+  margin: 0 550px 0 0;
+}
+.header__logo {
+  width: 238px;
+  height: 54px;
+}
+
+.header__logo {
+  text-align: right;
+}
+.italic {
+  font-style: italic;
+}
+.bold {
+  font-weight: 700;
+}
+.background_color {
+  background-color: #dadada;
+}

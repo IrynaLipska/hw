@@ -1,0 +1,40 @@
+@font-face {
+  font-family: "Farro";
+  src: url("../assets/fonts/Farro/Farro-Regular.ttf") format("truetype");
+  font-weight: 300;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Francois_One";
+  src: url("../assets/fonts/Francois_One/FrancoisOne-Regular.ttf")
+    format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
+/* @font-face {
+    font-family: "Open_Sans";
+    src: url("../assets/fonts/Open_Sans/OpenSans-VariableFont_wdth\,wght.ttf") format("truetype");
+      format("truetype");
+    font-weight: 600;
+    font-style: normal;
+  } */
+@font-face {
+  font-family: "PTSans Regular";
+  src: url("../assets/fonts/PTSans/PTSans-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Staatliches";
+  src: url("../assets/fonts/Staatliches/Staatliches-Regular.ttf")
+    format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Tourney";
+  src: url("../assets/fonts/Tourney/Tourney-VariableFont_wdth\,wght.ttf")
+    format("truetype");
+  font-weight: 600;
+  font-style: normal;
+}
